@@ -1,2 +1,2 @@
 
-from mixture import *
+from mixjax.mixture import *
