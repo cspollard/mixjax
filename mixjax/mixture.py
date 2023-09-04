@@ -240,9 +240,6 @@ if __name__ == '__main__':
     , numpy.ones(10)
     )
 
-  def update(d, k, f):
-    return 
-
   test = concat([test, test])
   test = mix([(test, 0.5), (test, 0.5)])
   test = alter(lambda d: d | { "hi" : d["hi"] * 2 }, test)
