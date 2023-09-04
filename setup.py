@@ -8,10 +8,6 @@ setup \
     [ "numpy"
     , "scipy"
     , "jax"
-    , "flax"
-    , "distrax"
-    , "optax"
     , "einops"
-    , "tqdm"
     ]
   )
